@@ -26,4 +26,13 @@ I am a high school student, interested in Computer Science and AI. Im currently 
   - `input()' and `float()' conversion
   - `if/elif/else` conditional logic
   - Loops and `while` usage
+ -----------------------------------
+ ### 06-01-2026
+ - Completed: Password Strength Checker
+- Bonus Project: Username Validator
+- Key Learnings:
+  - String iteration and character checking
+  - Using built-in string methods (`isdigit()`, `isupper()`)
+  - Input validation and rule-based logic
+  - Structuring programs for clarity and readability
 -----------------------------------
