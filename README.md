@@ -36,3 +36,9 @@ I am a high school student, interested in Computer Science and AI. Im currently 
   - Input validation and rule-based logic
   - Structuring programs for clarity and readability
 -----------------------------------
+### 07-01-2026
+- Completed: Student Grade Calculator, To-Do list Program
+- Learned: logic + structure
+- Student Grade Calculator: Calculates total marks, percentage, and assigns grades.
+- To-Do List Program: A simple command-line application to add and view daily tasks.
+-----------------------------------
