@@ -42,3 +42,11 @@ I am a high school student, interested in Computer Science and AI. Im currently 
 - Student Grade Calculator: Calculates total marks, percentage, and assigns grades.
 - To-Do List Program: A simple command-line application to add and view daily tasks.
 -----------------------------------
+### 10-01-2026
+- Completed: Simple Login System, Attendance Checker
+- Practiced: loops, conditional logic, user input handling
+- Learned:
+> Type conversion (int)
+> Calculations
+> Percentage logic
+> Conditional decisions
