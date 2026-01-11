@@ -50,3 +50,9 @@ I am a high school student, interested in Computer Science and AI. Im currently 
 > Calculations
 > Percentage logic
 > Conditional decisions
+-----------------------------------
+### 11-01-2026
+- Completed: Basic Quiz Game, Expense Tracker( CLI-based)
+- Practiced: basic data tracking and logic structuring by working with real-world inspired problems.
+- Focus Area: Core Physics fundamentals, Problem solving through mini projects , Building consistency and discipline in daily coding practice.
+-----------------------------------
