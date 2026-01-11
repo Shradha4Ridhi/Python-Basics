@@ -7,10 +7,15 @@ This repository contains my beginner Python programs, I am learning python step 
 -----------------------------------
 ## Programs included
 -----------------------------------
-- Hello World
-- Even/Odd Checker
-- Simple calculator
-- Number guessing game
+- Hello World (06-01-2026)
+- Even/Odd Checker (06-01-2026)
+- Simple calculator (06-01-2026)
+- Number guessing game (06-01-2026)
+- Password Strength Checker (07-01-2026)
+- Student Grade Calculator (10-01-2026)
+- Basic TO-DO List (CLI-based) (10-01-2026)
+- Basic Quiz Game (11-01-2026)
+- Expense Tracker (ClI-based) (11-01-2026)
 -----------------------------------
 ## About me 
 -----------------------------------
