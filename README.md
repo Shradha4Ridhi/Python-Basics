@@ -61,3 +61,8 @@ I am a high school student, interested in Computer Science and AI. Im currently 
 - Practiced: basic data tracking and logic structuring by working with real-world inspired problems.
 - Focus Area: Core Physics fundamentals, Problem solving through mini projects , Building consistency and discipline in daily coding practice.
 -----------------------------------
+### 12-01-2026
+- completed : contact book project
+- Worked with Python dictionaries and key–value pairs.
+- Practiced: function-based programming and loops.
+-----------------------------------
