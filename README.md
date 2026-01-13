@@ -16,10 +16,13 @@ This repository contains my beginner Python programs, I am learning python step 
 - Basic TO-DO List (CLI-based) (10-01-2026)
 - Basic Quiz Game (11-01-2026)
 - Expense Tracker (ClI-based) (11-01-2026)
+- Contact book (CLI - based) (12-01-2026)
+- Mini Banking System (13-01-2026)
+- Library Management System (13-01-2026)
 -----------------------------------
 ## About me 
 -----------------------------------
-I am a high school student, interested in Computer Science and AI. Im currently in 11th grade, At a time when many students are still uncertain about their choices and direction, I believe clarity comes from action, which is why I build and document projects while developing my technical foundation.
+I am Shradha Ridhi, a high school student, interested in Computer Science and AI. Im currently in 11th grade, At a time when many students are still uncertain about their choices and direction, I believe clarity comes from action, which is why I build and document projects while developing my technical foundation.
 
 -----------------------------------
 ## Progress/Learning Log
@@ -65,4 +68,9 @@ I am a high school student, interested in Computer Science and AI. Im currently 
 - completed : contact book project
 - Worked with Python dictionaries and key–value pairs.
 - Practiced: function-based programming and loops.
+-----------------------------------
+### 13-01-2026 
+- Completed : Mini Banking System, Library Management System
+- This marks the end of the Python-basics repository.
+- I have accomplished my goal of learning beginner level Python.
 -----------------------------------
